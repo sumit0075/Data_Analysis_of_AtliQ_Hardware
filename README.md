@@ -11,22 +11,23 @@ Business Concepts learned :
 Fiscal_yr Profit/Loss Gross_price post/pre_invoice_deductions Net_Sales Supply_Chain basics
 
 Steps Performed :
-Load the dataset into MySQL workbench.
+1. Load the dataset into MySQL workbench.
 
-Analyse and understand different tables(data).
+2. Analyse and understand different tables(data).
 
-Generate report by executing various queries based on problem statement.
+3. Generate report by executing various queries based on problem statement.
 
-Try to optimize the queries.
+4. Try to optimize the queries.
 
-Automate the report based queries by creating functions, stored procedures on them.
+5. Automate the report based queries by creating functions, stored procedures on them.
 
-Extract the required reports as excel file.
+6. Extract the required reports as excel file.
 
-Create view of queries that are going to be used repeatedly.
+7. Create view of queries that are going to be used repeatedly.
 
-Apply window functions to get the top performing customers, products, etc. and assign specific rank to them.
+8. Apply window functions to get the top performing customers, products, etc. and assign specific rank to them.
 
-Apply indexes on the tables to improve the query performance.
+9. Apply indexes on the tables to improve the query performance.
+   
 
 Note : Dataset file is large(240 mb) and I am not authorized to share that file.Thus, the file is not uploaded.The EER Diagram of the dataset is uploaded.
