@@ -10,7 +10,7 @@ Business Concepts learned :
 Fiscal_yr Profit/Loss Gross_price post/pre_invoice_deductions Net_Sales Supply_Chain basics
 
 Steps Performed :
-Load the dataset into MySQL workbench
+Load the dataset into MySQL workbench.
 Analyse and understand different tables(data).
 Generate report by executing various queries based on problem statement.
 Try to optimize the queries.
